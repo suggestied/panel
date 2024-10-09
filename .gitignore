@@ -21,7 +21,6 @@ public/assets/manifest.json
 # For local development with docker
 # Remove if we ever put the Dockerfile in the repo
 .dockerignore
-docker-compose.yml
 
 # for image related files
 misc
@@ -33,4 +32,3 @@ resources/lang/locales.js
 /public/build
 /public/hot
 result
-docker-compose.yaml
